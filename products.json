@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "mu741o9v9qp3l",
+    "title": "Skladnost poslovanja UI",
+    "category": "Programska oprema",
+    "price": "1270 €",
+    "shortDescription": "Skladnost poslovanja (AI Compliance) Program, ki poveže zakone, regulativo in vaše procese ter vas opozori, koliko procesov prizadene nova z",
+    "description": "<b><i>Skladnost poslovanja UI (AI Compliance)</i></b><br><br>Regulativa, procesi in roki — na enem mestu, brez kaosa v Excelovih tabelah.<br><br>Kratek opis (za seznam izdelkov / meta opis)<br><br>Aplikacija, ki samodejno poveže zakone in regulativo z vašimi poslovnimi procesi ter vas opozori, koliko procesov prizadene nova zahteva, kdo je zanjo odgovoren in koliko dni je še do roka. Namenjena bankam, zavarovalnicam, farmacevtskim in energetskim podjetjem — ter vsakemu podjetju, ki mu spremljanje regulative jemlje preveč časa.<br><br><b><i>Dolg opis</i></b><br><br>Vsako srednje in veliko podjetje se sooča z isto težavo: zakoni, uredbe EU in smernice nadzornikov se spreminjajo hitreje, kot jih je mogoče ročno spremljati v Excelu ali skupni mapi. Posledica so zamujeni roki, spregledane obveznosti in nervozni sestanki tik pred nadzorom.<br><br>Skladnost poslovanja to reši tako, da vzpostavi jasno verigo:<br><br>zakon → zahteva → vaš proces → interna politika → naloga → rok<br><br>Ko dodate novo zahtevo — na primer iz novega predpisa ali okrožnice nadzornika — program v trenutku izračuna:<br><br>Nova zahteva vpliva na 14 vaših procesov. Odgovorna oseba: Legal Department. Rok: 43 dni.<br><br>Nič več iskanja po tabelah, kdo je za kaj odgovoren in ali smo na nekaj pozabili.<br><br><b><i>Kaj dobite?</i></b><br><br>Nadzorno ploščo z jasnimi opozorili, razvrščenimi po nujnosti — zapadli roki najprej.<br>Samodejni izračun vpliva nove zahteve na vaše procese, na podlagi področij in besedila, ki ga sami popravljate in potrjujete.<br>Register regulative, zahtev, internih politik, procesov in nalog na enem mestu, s celotno zgodovino sprememb.<br>Zaznavo vrzeli — program vas opozori, katera zahteva nima ustrezne interne politike.<br>Analizo besedila predpisov, ki iz prilepljenega člena samodejno izlušči posamezne obveznosti — deluje brez interneta, po želji pa jo nadgradite s povezavo na Cloudflare AI za še bolj naravne predloge.<br>Poročila za vodstvo in nadzor — izpis v PDF, izvoz v Excel (CSV) ali celotna baza v JSON.<br>Popoln nadzor nad podatki: vse se shranjuje lokalno, v eni sami datoteki na vašem disku ali omrežnem pogonu — brez oblaka, brez naročnine, brez tveganja, da bi občutljivi podatki o skladnosti pristali na tujem strežniku.<br>Za koga je narejena<br><br>Bančništvo, zavarovalništvo, farmacija in energetika — panoge z največ regulative — a enako dobro služi vsakemu podjetju s pravno ali compliance funkcijo, ki želi imeti pregled nad obveznostmi, ne da bi za to potrebovala drago poslovno programsko opremo.<br><br><b><i>Tehnično, na kratko</i></b><br><br>Ena sama datoteka, ki teče v brskalniku (Chrome ali Edge priporočeno). Ni namestitve, ni strežnika, ni mesečne naročnine. Podatki ostanejo pri vas.<br>",
+    "features": [
+      "Deluje brez interneta ali pa z internetom z UI",
+      "Deluje na Windows, MacOS, Android, iOS, ipadOS"
+    ],
+    "image": "https://i.imgur.com/MVr9lKs.jpeg",
+    "gallery": [
+      "https://i.imgur.com/Cnphznu.jpeg",
+      "https://i.imgur.com/osOIzhx.jpeg",
+      "https://i.imgur.com/tsYlXFK.jpeg",
+      "https://i.imgur.com/yZ7Mt80.jpeg",
+      "https://i.imgur.com/nPEWyCM.jpeg",
+      "https://i.imgur.com/thvma1e.jpeg"
+    ]
+  }
+]
