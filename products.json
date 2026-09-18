@@ -39,5 +39,25 @@
       "https://i.imgur.com/okcW7bu.jpeg",
       "https://i.imgur.com/AHKf6K9.jpeg"
     ]
+  },
+  {
+    "id": "mu7fl1jnp1f1d",
+    "title": "Nabava in upravljanje UI",
+    "category": "Programska oprema",
+    "price": "2734 €",
+    "shortDescription": "AI nadzorna plošča za nabavo: sledite dobaviteljem, tveganjem in prihrankom. Brez naročnine - podatki ostanejo na vašem računalniku.",
+    "description": "<p><strong>Nabava in upravljanje UI</strong> — pregledna nadzorna plošča za upravljanje nabave, dobaviteljev in tveganj. Ena sama HTML datoteka, ki teče lokalno v brskalniku — brez naročnine, brez strežnika, brez deljenja podatkov s tretjimi osebami. Vključuje podroben uporabniški priročnik.</p><h4>Nabava in upravljanje UI — nadzorna plošča za pametno nabavo</h4>\n<p>Preglej svoje dobavitelje, stroške, tveganja in priložnosti za prihranke na enem mestu — brez zapletenih sistemov, mesečnih naročnin ali dolgotrajnih uvedb. AI Procurement Intelligence je samostojno namizno orodje, ki teče neposredno v brskalniku in vam v nekaj minutah da pregleden vpogled v celoten nabavni portfelj.</p>\n<p><strong>Kaj dobite:</strong></p>\n<ul>\n<li><strong>Pregledno nadzorno ploščo</strong> s ključnimi kazalniki, ki se preračunajo samodejno iz vaših podatkov</li>\n<li><strong>Profil tveganja za vsakega dobavitelja</strong> po štirih dimenzijah (finančno, operativno, geopolitično, ESG)</li>\n<li><strong>Sledenje priložnostim za prihranke</strong> — od identifikacije do realizacije</li>\n<li><strong>Vizualne napovedi cen in trendov</strong> za lažje načrtovanje nabave</li>\n<li><strong>Poljubne dodatne rubrike</strong> — dodajte lastne kategorije podatkov, ki jih vaše podjetje potrebuje</li>\n<li>Temni/svetli način in možnost tiskanja poročil</li>\n</ul>\n<p><strong>Zakaj bo všeč vašemu podjetju:</strong></p>\n<ul>\n<li><strong>Brez naročnine, brez oblaka.</strong> Program je ena sama datoteka, ki jo odprete v brskalniku — podatki ostanejo na vašem računalniku, v mapi, ki jo sami izberete.</li>\n<li><strong>Popolna prilagodljivost.</strong> Dodajajte dobavitelje, kategorije, opozorila in cele nove rubrike podatkov po meri svojega poslovanja.</li>\n<li><strong>Varnostne kopije z enim klikom</strong> in enostaven izvoz v JSON/CSV — podatke lahko kadarkoli prenesete, delite ali povežete z GitHub repozitorijem.</li>\n<li><strong>Brez tehničnega znanja.</strong> Dvokliknete datoteko in ste pripravljeni na delo v manj kot minuti.</li>\n</ul>\n<p><strong>V paketu prejmete:</strong></p>\n<ol>\n<li>Aplikacijo (ena HTML datoteka, deluje v Chrome/Edge)</li>\n<li>Podroben uporabniški priročnik v PDF in Word formatu (9 strani — namen, navodila po korakih, shranjevanje podatkov, opozorila in priporočila)</li>\n<li>README datoteko za hitro postavitev</li>\n</ol>\n<p><strong>Primerno za:</strong> manjše in srednje nabavne ekipe, svetovalce, vodstvene time, ki potrebujejo hiter pregled brez uvedbe zajetnega ERP sistema.</p>\n<p><em>Opomba: gre za lokalno orodje za osebno/interno rabo brez sistema prijave — vsi vneseni podatki in ocene tveganja so ročno vodeni s strani uporabnika.</em></p>",
+    "features": [
+      "Deluje brez interneta ali pa z internetom z UI",
+      "Deluje na Windows, MacOS, Android, iOS, ipadOS"
+    ],
+    "image": "https://i.imgur.com/hwPiZ3H.jpeg",
+    "gallery": [
+      "https://i.imgur.com/6UdovRy.jpeg",
+      "https://i.imgur.com/Z6FNzOT.jpeg",
+      "https://i.imgur.com/R6W7Avg.jpeg",
+      "https://i.imgur.com/8Cm5e1u.jpeg",
+      "https://i.imgur.com/Y6lcxaC.jpeg"
+    ]
   }
 ]
