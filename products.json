@@ -19,5 +19,25 @@
       "https://i.imgur.com/nPEWyCM.jpeg",
       "https://i.imgur.com/thvma1e.jpeg"
     ]
+  },
+  {
+    "id": "mu7e0rrufffc3",
+    "title": "Pametni finančni zaključek UI",
+    "category": "Programska oprema",
+    "price": "1170 €",
+    "shortDescription": "Pametno orodje za zaključevanje poslovnega obdobja. V sekundah odkrije neskladja, manjkajoče podatke, podvojene knjižbe",
+    "description": "<p><strong>Pametni pomočnik za zaključevanje poslovnega obdobja.</strong> Samodejno odkrije neskladja, manjkajoče podatke, podvojene knjižbe in nenavadne transakcije, še preden jih opazi revizor. Deluje takoj, brez namestitve in brez naročnine.</p><p><strong>Zaključite poslovno obdobje v urah, ne v dnevih.</strong></p>\n<p>Vsak konec meseca je enak: gore knjižb, ki jih je treba ročno preveriti, preden gredo naprej v poročila. En spregledan neskladen znesek, ena manjkajoča temeljnica ali ena podvojena postavka — in revizija se zaplete.</p>\n<p><strong></strong><b>Pametni finančni zaključek UI</b> je orodje, ki finančnim in računovodskim oddelkom v nekaj minutah pokaže, katere knjižbe zahtevajo pozornost, še preden zaključite obdobje.</p>\n<h4>Kaj program naredi za vas</h4>\n<p>Program samodejno pregleda vse vaše knjižbe in odkrije:</p>\n<ul>\n<li><strong>Neskladja</strong> — temeljnice, kjer debet ne ustreza kreditu</li>\n<li><strong>Manjkajoče podatke</strong> — prazne datume, konte, opise, zneske ali dokumente</li>\n<li><strong>Nenavadne transakcije</strong> — statistična odstopanja, knjiženja ob vikendih, visoke vrednosti brez dokazil</li>\n<li><strong>Napake</strong> — podvojene knjižbe</li>\n<li><strong>Nepravilna knjiženja</strong> — neobstoječe konte, napačno smer knjiženja, knjiženja izven obdobja</li>\n</ul>\n<p>Vsaka najdba dobi stopnjo tveganja (kritično / visoko / srednje / nizko), jasno razlago in priporočilo za ukrepanje — brez ugibanja, kje začeti.</p><ul>\n<li><strong>Deluje takoj, brez čakanja</strong> — ena datoteka, brez namestitve, brez IT oddelka</li>\n<li><strong>Vaši podatki ostanejo vaši</strong> — vsa analiza teče lokalno v brskalniku; podatke shranjujete na svoj disk, v svojo mapo</li>\n<li><strong>Popolna preglednost</strong> — vsako pravilo analize je razloženo in razumljivo, ne \"črna škatla\"</li>\n<li><strong>Revizijska sled vgrajena</strong> — vsaka najdba dobi status in opombe s časovnim žigom</li>\n<li><strong>Umetna inteligenca po želji</strong> — povežite lasten Cloudflare AI Worker za dodatne naravnojezične vpoglede; tudi brez tega program deluje enako zanesljivo</li>\n<li><strong>Brez naročnine, brez skritih stroškov</strong></li>\n</ul>\n<h4>Za koga je namenjen?</h4>\n<p>Finančni kontrolerji, računovodje, vodje financ, notranji revizorji in vsi, ki vsak mesec, kvartal ali leto zaključujejo poslovne knjige — v malih podjetjih in velikih finančnih oddelkih.</p>\n<h4>Kako deluje</h4><ol>\n<li>Uvozite knjižbe (CSV, Excel izvoz ali ročni vnos)</li>\n<li>Kliknete \"Zaženi analizo\"</li>\n<li>Program v sekundah izpiše seznam tveganih postavk, urejen po pomembnosti</li>\n<li>Pregledate, popravite, arhivirate — obdobje je zaključeno</li>\n</ol><p>Brez naročnine, brez omejenega števila knjižb, brez skritih stroškov.</p>",
+    "features": [
+      "Deluje brez interneta ali pa z internetom z UI",
+      "Deluje na Windows, MacOS, Android, iOS, ipadOS"
+    ],
+    "image": "https://i.imgur.com/IyYZIzf.jpeg",
+    "gallery": [
+      "https://i.imgur.com/U7AJ0rh.jpeg",
+      "https://i.imgur.com/roQzXIR.jpeg",
+      "https://i.imgur.com/W8wH47G.jpeg",
+      "https://i.imgur.com/okcW7bu.jpeg",
+      "https://i.imgur.com/AHKf6K9.jpeg"
+    ]
   }
 ]
