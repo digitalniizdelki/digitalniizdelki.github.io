@@ -1141,39 +1141,51 @@
      ========================================================= */
 
   .image-lightbox{
-    position:fixed;
-    inset:0;
-    z-index:300;
-    background:rgba(3,4,7,.92);
-    backdrop-filter:blur(8px);
-    display:none;
-    align-items:center;
-    justify-content:center;
-    padding:30px;
-  }
+  position:fixed;
+  inset:0;
+  z-index:300;
 
-  .image-lightbox.show{
-    display:flex;
-  }
+  background:rgba(3,4,7,.92);
+  backdrop-filter:blur(8px);
 
-  .lightbox-content{
-    position:relative;
-    width:min(1200px,96vw);
-    height:min(88vh,900px);
-    display:flex;
-    align-items:center;
-    justify-content:center;
-  }
+  display:none;
 
-  .lightbox-content img{
-    max-width:100%;
-    max-height:100%;
-    width:auto;
-    height:auto;
-    object-fit:contain;
-    border-radius:12px;
-    box-shadow:0 30px 80px rgba(0,0,0,.65);
-  }
+  overflow:auto;
+  padding:30px;
+  box-sizing:border-box;
+}
+
+.image-lightbox.show{
+  display:block;
+}
+
+.lightbox-content{
+  position:relative;
+
+  width:max-content;
+  height:max-content;
+
+  margin:0 auto;
+}
+
+.lightbox-content img{
+  display:block;
+
+  /* TO JE KLJUČNO:
+     originalna/naravna velikost slike */
+  width:auto;
+  height:auto;
+
+  /* BREZ omejevanja na velikost ekrana */
+  max-width:none;
+  max-height:none;
+
+  /* brez spreminjanja razmerja */
+  object-fit:initial;
+
+  border-radius:12px;
+  box-shadow:0 30px 80px rgba(0,0,0,.65);
+}
 
   .lightbox-close{
     position:absolute;
@@ -3136,7 +3148,7 @@ function openLightbox(src,alt=""){
 
   box.classList.add("show");
 
-  document.body.style.overflow = "hidden";
+  document.body.style.overflow = "";
 
 }
 
