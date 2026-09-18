@@ -75,5 +75,25 @@
     "gallery": [
       "https://i.imgur.com/qYRTjcb.jpeg"
     ]
+  },
+  {
+    "id": "mu7hi2hmkf3ee",
+    "title": "Gostitelj - Program za hotelsko recepcijo",
+    "category": "Programska oprema",
+    "price": "779 €",
+    "shortDescription": "Učinkovito evidentiranje in upravljanje s podatki na recepciji",
+    "description": "Gostitelj — informacijski sistem za hotelsko recepcijo\n<p><strong>Sodobna recepcija brez papirja, brez mesečnih naročnin, brez zapletov.</strong></p>\n<p>Gostitelj je celovit programski sistem za vodenje hotelske recepcije — od prijave gosta do izdaje računa. Nadomesti papirno knjigo gostov, ročno vodene sezname sob in ločene beležke za sporočila z enim samim, preglednim orodjem, ki teče neposredno v brskalniku, brez namestitve in brez mesečne naročnine.</p>\n<h3>Zakaj Gostitelj?</h3>\n<p>✔️ <strong>Vse na enem mestu</strong> — prijava in odjava gostov, zasedenost sob, rezervacije, računi, gospodinjstvo, sporočila za goste, izgubljeni predmeti, hišni red in statistika poslovanja.</p>\n<p>✔️ <strong>Brez naročnine, brez oblaka, brez skrbi za zasebnost</strong> — program teče lokalno na vašem računalniku, vsi podatki (tudi fotografije in dokumenti gostov) ostanejo izključno pri vas, nikoli na tujem strežniku.</p>\n<p>✔️ <strong>Enostaven zagon</strong> — ena sama datoteka, ki jo odprete v brskalniku. Ni namestitve, ni gesel, ni tehničnega znanja.</p>\n<p>✔️ <strong>Pameten obračun</strong> — samodejni izračun nočitev, dodajanje dodatnih storitev (minibar, parkirišče, zajtrk …), sledenje plačilom in izvoz urejenega računa v PDF z enim klikom.</p>\n<p>✔️ <strong>Vizualna tabla sob</strong> — barvno prikazana zasedenost (prosta, zasedena, v čiščenju, rezervirana, vzdrževanje) za takojšen pregled celotnega hotela.</p>\n<p>✔️ <strong>Fotografije in dokumenti gostov</strong> — zajem fotografije neposredno s kamero ali nalaganje skena osebnega dokumenta, vse shranjeno pregledno in varno.</p>\n<p>✔️ <strong>Podpora celotni izmeni</strong> — sporočila za goste, evidenca izgubljenih predmetov in obvestila za predajo izmene poskrbijo, da nobena informacija ne pade skozi.</p>\n<p>✔️ <strong>Statistika poslovanja</strong> — zasedenost, prihodki po sobah in trendi na dlani, brez Excela.</p>\n<p>✔️ <strong>PDF poročila</strong> — izvoz računov gostov in poročil o zasedenosti za knjigovodstvo v nekaj sekundah.</p>\n<h3>Za koga je primeren</h3>\n<p>Za manjše in srednje hotele, penzione, gostišča, apartmajske komplekse, mladinske hoteje in vsako nastanitev, ki želi profesionalno, a preprosto orodje za recepcijo — brez dragih hotelskih PMS sistemov in dolgotrajnih uvedb.</p>\n<h3>V paketu prejmete</h3>\n<ul>\n<li>Program <strong>Gostitelj</strong> (ena datoteka, deluje na Windows, macOS in Linux v brskalniku Chrome/Edge)</li>\n<li>Podroben <strong>uporabniški priročnik</strong> (PDF/Word) z navodili za vsak korak dela</li>\n<li>Vgrajen hišni red in nujni kontakti, ki jih po želji prilagodite svojemu hotelu</li>\n</ul>",
+    "features": [
+      "Deluje brez interneta ali pa z internetom z UI",
+      "Deluje na Windows, MacOS, Android, iOS, ipadOS"
+    ],
+    "image": "https://i.imgur.com/G0HmO8Z.jpeg",
+    "gallery": [
+      "https://i.imgur.com/fF1kbuo.jpeg",
+      "https://i.imgur.com/AsJga0J.jpeg",
+      "https://i.imgur.com/eKjItKm.jpeg",
+      "https://i.imgur.com/eKjItKm.jpeg",
+      "https://i.imgur.com/EC25gGv.jpeg"
+    ]
   }
 ]
