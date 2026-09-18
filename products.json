@@ -1,0 +1,17 @@
+[
+  {
+    "id": "demo-1",
+    "title": "Primer izdelka — Sledilnik nalog",
+    "category": "Produktivnost",
+    "price": "39 €",
+    "shortDescription": "Namizna aplikacija za sledenje nalogam in projektom.",
+    "description": "To je primer izdelka. Uredi ali izbriši ga prek skrbniške plošče (gumb zgoraj desno) in dodaj svoje resnične programe in aplikacije.",
+    "features": [
+      "Deluje brez interneta",
+      "Podpora za Windows in macOS",
+      "Enkraten nakup, brez naročnine"
+    ],
+    "image": "",
+    "gallery": []
+  }
+]
