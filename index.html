@@ -693,6 +693,18 @@ footer{
   width:min(1000px,100%);
 }
 
+
+/* =========================================================
+   PRODUCT MODAL - 900PX
+   ========================================================= */
+
+#productOverlay .modal{
+  width:min(900px,100%);
+  max-width:900px;
+  max-height:90vh;
+  overflow:auto;
+}
+
 .modal-head{
   position:sticky;
   top:0;
@@ -1307,6 +1319,12 @@ footer{
   .modal{
     max-height:94vh;
     border-radius:16px;
+  }
+
+  #productOverlay .modal{
+    width:100%;
+    max-width:none;
+    max-height:94vh;
   }
 
   .modal-body{
@@ -4197,8 +4215,8 @@ document
 
         throw new Error(
           "Nepričakovan odgovor GitHub API-ja ("
-          + repoRes.status
-          + ")."
+          + repoRes.status +
+          ")."
         );
 
       }
@@ -4436,8 +4454,8 @@ async function checkGithubConnection(){
 
       throw new Error(
         "Nepričakovan odgovor GitHub API-ja ("
-        + repoRes.status
-        + ")."
+        + repoRes.status +
+        ")."
       );
 
     }
